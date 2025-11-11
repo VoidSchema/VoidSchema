@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [ShadowTou / Ayin]
+# Hi there 👋, I'm [Ayin / murizki].
 
 🔴 **Red Team Cybersecurity Specialist | Ethical Hacker | Penetration Tester**
 
