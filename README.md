@@ -1,6 +1,6 @@
 <div align="center">
 
-![Mahiru Shiina Header](https://i.pinimg.com/originals/a0/0b/4d/a00b4d455dc87a2a16d00e57207db854.gif)
+![Mahiru Shiina Banner](https://i.pinimg.com/originals/a0/0b/4d/a00b4d455dc87a2a16d00e57207db854.gif)
 
 # Hi there 👋, I'm **Muhammad Rizki Mubarak**
 ### a.k.a **VoidSchema**
@@ -40,15 +40,11 @@ Saya adalah seorang *developer* dengan pendekatan pragmatis dan logis dalam memb
 
 ## 📊 GitHub Stats
 
-<div align="center">
+### Overview
+[![VoidSchema GitHub Stats](https://github-readme-stats.vercel.app/api?username=VoidSchema&show_icons=true&theme=dracula)](https://github.com/VoidSchema)
 
-[![VoidSchema GitHub Stats](https://github-readme-stats.vercel.app/api?username=VoidSchema&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4B886&text_color=A1B0CC&icon_color=D4B886)](https://github.com/VoidSchema)
-
-<br>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VoidSchema&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4B886&text_color=A1B0CC)](https://github.com/VoidSchema)
-
-</div>
+### Most Used Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VoidSchema&layout=compact&theme=dracula)](https://github.com/VoidSchema)
 
 ---
 
