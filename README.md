@@ -1,13 +1,13 @@
 <div align="center">
-  <!-- Ganti link gambar ini dengan GIF/Gambar Mahiru Shiina bernuansa dark/aesthetic pilihanmu -->
-  <img src="https://i.pinimg.com/originals/a0/0b/4d/a00b4d455dc87a2a16d00e57207db854.gif" width="100%" height="200" style="object-fit: cover; border-radius: 8px;" alt="Mahiru Aesthetic Header">
+  <!-- Banner Gambar Mahiru Shiina Custom: Estetik, Lembut, dan Profesional -->
+  <img src="image_0.png" width="100%" alt="Mahiru Shiina Aesthetic Header Banner - VoidSchema">
   
   <br>
 
   # Hi there 👋, I'm **Muhammad Rizki Mubarak**
   ### a.k.a **VoidSchema**
 
-  🪽 **Full-Stack Developer | Data Science Enthusiast | Pragmatic Engineer**
+  🪽 **Full Stack Developer | Backend Developer**
 
   <p align="center">
     <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D4B886?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
@@ -19,10 +19,10 @@
 
 ## 🚀 About Me
 
-Saya adalah seorang *developer* dengan pendekatan pragmatis dan logis dalam membangun sistem. Fokus utama saya adalah merancang arsitektur *backend* yang efisien, mengelola infrastruktur *server*, dan bereksperimen dengan model *machine learning*. 
+Saya adalah seorang *developer* dengan pendekatan pragmatis dan logis dalam membangun sistem. Fokus utama saya adalah merancang arsitektur *backend* yang efisien dan mengelola infrastruktur *server*, dengan sentuhan estetika pada *full-stack* implementasi.
 
-- 🔭 **Currently Focusing On:** Membangun model *Machine Learning* untuk mendeteksi anomali/kecurangan pada sistem UTBK.
 - 💻 **Active Projects:** Mengembangkan infrastruktur **Valk Chat Backend** dan mengelola **Sistem Manajemen Aset (Simaset)**.
+- 🔭 **Currently Testing:** Bereksperimen dengan model *Machine Learning* untuk deteksi anomali pada sistem UTBK.
 - ⚙️ **Infrastructure:** Rutin mengelola *home server* berbasis **Docker** & **CasaOS** menggunakan Set-Top Box (STB) di *environment* Linux.
 - 🎯 **Philosophy:** Mengutamakan utilitas jangka panjang, efisiensi eksekusi, dan penulisan kode yang bersih.
 
