@@ -1,18 +1,17 @@
 <div align="center">
-  <!-- Gambar Mahiru Shiina (Cute & Aesthetic) -->
-  <img src="https://media1.tenor.com/m/oV58r4uQ9wAAAAAd/mahiru-shiina-otonari-no-tenshi-sama.gif" width="100%" height="200" style="object-fit: cover; border-radius: 8px;" alt="Mahiru Shiina Header">
+<img src="https://media1.tenor.com/m/oV58r4uQ9wAAAAAd/mahiru-shiina-otonari-no-tenshi-sama.gif" width="100%" height="200" style="object-fit: cover; border-radius: 8px;" alt="Mahiru Shiina Header">
   
-  <br>
+<br>
 
-  # Hi there 👋, I'm **Muhammad Rizki Mubarak**
-  ### a.k.a **VoidSchema**
+# Hi there 👋, I'm **Muhammad Rizki Mubarak**
+### a.k.a **VoidSchema**
 
-  🪽 **Full Stack Developer | Backend Developer**
+🪽 **Full Stack Developer | Backend Developer**
 
-  <p align="center">
-    <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D4B886?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://linkedin.com/in/usernamekamu"><img src="https://img.shields.io/badge/LinkedIn-Connect-1D2939?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  </p>
+<p align="center">
+<a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D4B886?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://linkedin.com/in/usernamekamu"><img src="https://img.shields.io/badge/LinkedIn-Connect-1D2939?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 </div>
 
 ---
@@ -53,9 +52,9 @@ Saya adalah seorang *developer* dengan pendekatan pragmatis dan logis dalam memb
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VoidSchema&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4B886&text_color=A1B0CC&icon_color=D4B886" alt="VoidSchema GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoidSchema&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4B886&text_color=A1B0CC" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=VoidSchema&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4B886&text_color=A1B0CC&icon_color=D4B886" alt="VoidSchema GitHub Stats" />
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoidSchema&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4B886&text_color=A1B0CC" alt="Top Languages" />
 </div>
 
 ---
