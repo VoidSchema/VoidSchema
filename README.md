@@ -39,14 +39,20 @@ Halo! Saya **Rizki**, seorang pengembang perangkat lunak yang antusias dalam mem
 ## 📊 Statistik GitHub (VoidSchema)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VoidSchema&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=a9b1d6&icon_color=e0af68&bg_color=1a1b26" alt="Stats VoidSchema" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoidSchema&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=a9b1d6&bg_color=1a1b26" alt="Top Languages VoidSchema" />
+  <!-- Menggunakan vercel-quotes atau alternative stats jika yang utama sedang down -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VoidSchema&show_icons=true&theme=tokyonight" alt="Stats VoidSchema" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoidSchema&layout=compact&theme=tokyonight" alt="Top Languages VoidSchema" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VoidSchema&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
+## 🏆 Kontribusi & Aktivitas
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VoidSchema&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VoidSchema&theme=tokyonight" alt="Profile Details" />
 </div>
 
 ---
