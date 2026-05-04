@@ -14,40 +14,42 @@
 Halo! Saya **Rizki**, seorang pengembang perangkat lunak yang antusias dalam membangun sistem yang efisien dan bersih. Saya senang mengeksplorasi teknologi baru dan berkontribusi pada proyek sumber terbuka (open-source).
 
 * 🔭 **Saat ini saya sedang:** Mengembangkan proyek personal dan meningkatkan skill arsitektur perangkat lunak.
-* 🌱 **Sedang mendalami:** Go, Next JS, JS, Python, PHP.
+* 🌱 **Sedang mendalami:** Go, Next.js, JavaScript, Python, dan PHP.
 * 💬 **Tanya saya tentang:** Pengembangan Backend, manajemen basis data, atau alur kerja Git.
-* 📫 **Hubungi saya:** shironehermes@gmail.com.
+* 📫 **Hubungi saya:** [shironehermes@gmail.com](mailto:shironehermes@gmail.com)
 
 ---
 
 ## 🛠️ Tech Stack & Alat
 
 <div align="center">
-  <!-- Ikon statis untuk profil yang bersih -->
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
 ---
 
-## 📊 Statistik GitHub (voidschema)
+## 📊 Statistik GitHub (VoidSchema)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=voidschema&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=a9b1d6&icon_color=e0af68&bg_color=1a1b26" alt="Stats voidschema" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidschema&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=a9b1d6&bg_color=1a1b26" alt="Top Languages voidschema" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VoidSchema&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=a9b1d6&icon_color=e0af68&bg_color=1a1b26" alt="Stats VoidSchema" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoidSchema&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=a9b1d6&bg_color=1a1b26" alt="Top Languages VoidSchema" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=voidschema&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VoidSchema&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 <p align="center">
-  Dibuat dengan semangat oleh <a href="https://github.com/voidschema"><b>voidschema</b></a>
+  Dibuat dengan semangat oleh <a href="https://github.com/VoidSchema"><b>VoidSchema</b></a>
 </p>
