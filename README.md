@@ -1,51 +1,53 @@
+# Halo, Saya Muhammad Rizki Mubarak! 👋
+
 <div align="center">
-
-![Mahiru Shiina Banner](https://i.pinimg.com/originals/a0/0b/4d/a00b4d455dc87a2a16d00e57207db854.gif)
-
-# Hi there 👋, I'm **Muhammad Rizki Mubarak**
-### a.k.a **VoidSchema**
-
-🪽 **Full Stack Developer | Backend Developer**
-
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D4B886?style=flat-square&logo=gmail&logoColor=white)](mailto:emailkamu@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1D2939?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/usernamekamu)
-
+  <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKrMvG5zXiehrvnDolIcOS2_0dP3hkvtNXaw&s]" alt="Mahiru Shiina" width="230" style="border-radius: 20px;"/>
+  <br>
+  <h1> 💻 Software Engineer </h1>
+  <i>"Simplicity is the soul of efficiency."</i>
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Tentang Saya
 
-Saya adalah seorang *developer* dengan pendekatan pragmatis dan logis dalam membangun sistem. Fokus utama saya adalah merancang arsitektur *backend* yang efisien dan mengelola infrastruktur *server*, dengan sentuhan estetika pada *full-stack* implementasi.
+Halo! Saya **Rizki**, seorang pengembang perangkat lunak yang antusias dalam membangun sistem yang efisien dan bersih. Saya senang mengeksplorasi teknologi baru dan berkontribusi pada proyek sumber terbuka (open-source).
 
-- 💻 **Active Projects:** Mengembangkan infrastruktur **Valk Chat Backend** dan mengelola **Sistem Manajemen Aset (Simaset)**.
-- 🔭 **Currently Testing:** Bereksperimen dengan model *Machine Learning* untuk deteksi anomali pada sistem UTBK.
-- ⚙️ **Infrastructure:** Rutin mengelola *home server* berbasis **Docker** & **CasaOS** menggunakan Set-Top Box (STB) di *environment* Linux.
-- 🎯 **Philosophy:** Mengutamakan utilitas jangka panjang, efisiensi eksekusi, dan penulisan kode yang bersih.
-
----
-
-## 🛠 Tech Stack & Tools
-
-### **Backend & Data**
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### **Infrastructure & Tools**
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=flat-square&logo=xampp&logoColor=white) ![CasaOS](https://img.shields.io/badge/CasaOS-Self_Hosted-000000?style=flat-square&logo=linux&logoColor=white)
+* 🔭 **Saat ini saya sedang:** Mengembangkan proyek personal dan meningkatkan skill arsitektur perangkat lunak.
+* 🌱 **Sedang mendalami:** [Sebutkan teknologi, misal: Go, Rust, atau Advanced Backend].
+* 💬 **Tanya saya tentang:** Pengembangan Backend, manajemen basis data, atau alur kerja Git.
+* 📫 **Hubungi saya:** [Tautan LinkedIn / Email Kamu]
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack & Alat
 
-### Overview
-[![VoidSchema GitHub Stats](https://github-readme-stats.vercel.app/api?username=VoidSchema&show_icons=true&theme=dracula)](https://github.com/VoidSchema)
-
-### Most Used Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VoidSchema&layout=compact&theme=dracula)](https://github.com/VoidSchema)
+<div align="center">
+  <!-- Ikon statis untuk profil yang bersih -->
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</div>
 
 ---
 
-> *"Precision in thought, efficiency in execution."*
+## 📊 Statistik GitHub (voidschema)
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=voidschema&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=a9b1d6&icon_color=e0af68&bg_color=1a1b26" alt="Stats voidschema" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidschema&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=a9b1d6&bg_color=1a1b26" alt="Top Languages voidschema" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=voidschema&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+<p align="center">
+  Dibuat dengan semangat oleh <a href="https://github.com/voidschema"><b>voidschema</b></a>
+</p>
