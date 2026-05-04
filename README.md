@@ -1,7 +1,7 @@
 # Halo, Saya Muhammad Rizki Mubarak! 👋
 
 <div align="center">
-  <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKrMvG5zXiehrvnDolIcOS2_0dP3hkvtNXaw&s]" alt="Mahiru Shiina" width="230" style="border-radius: 20px;"/>
+  <img src="[https://otakotaku.com/asset/img/character/2022/05/mahiru-shiina-627cad5821edep.jpg]" alt="Mahiru Shiina" width="230" style="border-radius: 20px;"/>
   <br>
   <h1> 💻 Software Engineer </h1>
   <i>"Simplicity is the soul of efficiency."</i>
