@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Banner Gambar Mahiru Shiina Custom: Estetik, Lembut, dan Profesional -->
-  <img src="image_0.png" width="100%" alt="Mahiru Shiina Aesthetic Header Banner - VoidSchema">
+  <!-- Gambar Mahiru Shiina (Cute & Aesthetic) -->
+  <img src="https://media1.tenor.com/m/oV58r4uQ9wAAAAAd/mahiru-shiina-otonari-no-tenshi-sama.gif" width="100%" height="200" style="object-fit: cover; border-radius: 8px;" alt="Mahiru Shiina Header">
   
   <br>
 
