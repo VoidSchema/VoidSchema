@@ -14,9 +14,9 @@
 Halo! Saya **Rizki**, seorang pengembang perangkat lunak yang antusias dalam membangun sistem yang efisien dan bersih. Saya senang mengeksplorasi teknologi baru dan berkontribusi pada proyek sumber terbuka (open-source).
 
 * 🔭 **Saat ini saya sedang:** Mengembangkan proyek personal dan meningkatkan skill arsitektur perangkat lunak.
-* 🌱 **Sedang mendalami:** [Sebutkan teknologi, misal: Go, Rust, atau Advanced Backend].
+* 🌱 **Sedang mendalami:** Go, Next JS, JS, Python, PHP.
 * 💬 **Tanya saya tentang:** Pengembangan Backend, manajemen basis data, atau alur kerja Git.
-* 📫 **Hubungi saya:** [Tautan LinkedIn / Email Kamu]
+* 📫 **Hubungi saya:** shironehermes@gmail.com.
 
 ---
 
