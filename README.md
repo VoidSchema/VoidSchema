@@ -6,8 +6,11 @@
   <h1> 💻 Software Engineer </h1>
   <i>"Simplicity is the soul of efficiency."</i>
   <br><br>
-  <!-- Penghitung Pengunjung (Visitor Badge) -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=VoidSchema.VoidSchema" alt="visitor badge" />
+  <!-- Visitor Badge dengan sentuhan ikon anime/otaku -->
+  <a href="https://github.com/VoidSchema">
+    <img src="https://img.shields.io/badge/Anime_Visitors-Dynamic-ff69b4?style=for-the-badge&logo=awesomewm&logoColor=white" alt="Visitor Badge" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=VoidSchema.VoidSchema&color=7c3aed" alt="Visitor Count" />
+  </a>
 </div>
 
 ---
@@ -42,7 +45,7 @@ Halo! Saya **Rizki**, seorang pengembang perangkat lunak yang antusias dalam mem
 ## 📊 Statistik GitHub (VoidSchema)
 
 <div align="center">
-
+  <!-- Menggunakan vercel-quotes atau alternative stats jika yang utama sedang down -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VoidSchema&show_icons=true&theme=tokyonight" alt="Stats VoidSchema" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoidSchema&layout=compact&theme=tokyonight" alt="Top Languages VoidSchema" />
 </div>
