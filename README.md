@@ -6,11 +6,12 @@
   <h1> 💻 Software Engineer </h1>
   <i>"Simplicity is the soul of efficiency."</i>
   <br><br>
-  <!-- Visitor Badge dengan sentuhan ikon anime/otaku -->
-  <a href="https://github.com/VoidSchema">
-    <img src="https://img.shields.io/badge/Anime_Visitors-Dynamic-ff69b4?style=for-the-badge&logo=awesomewm&logoColor=white" alt="Visitor Badge" />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=VoidSchema.VoidSchema&color=7c3aed" alt="Visitor Count" />
-  </a>
+  
+  <!-- Bagian Visitor dengan Karakter Anime Mini -->
+  <div style="display: inline-block;">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1bTV5eW52aGgzaG95eWRibWN0ZWkyNnV5dm91ODV3aXRpYmVjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="40" style="vertical-align: middle; border-radius: 50%;" alt="Anime Icon" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=VoidSchema.VoidSchema&color=ff69b4" alt="Visitor Count" style="vertical-align: middle;" />
+  </div>
 </div>
 
 ---
