@@ -5,6 +5,9 @@
   <br>
   <h1> 💻 Software Engineer </h1>
   <i>"Simplicity is the soul of efficiency."</i>
+  <br><br>
+  <!-- Penambahan Penghitung Pengunjung -->
+  <img src="https://komarev.dev/ghpvc/?username=VoidSchema&color=00add8&style=flat-square" alt="Profile Visitor Count" />
 </div>
 
 ---
