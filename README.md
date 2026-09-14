@@ -6,8 +6,8 @@
   <h1> 💻 Software Engineer </h1>
   <i>"Simplicity is the soul of efficiency."</i>
   <br><br>
-  <!-- Penambahan Penghitung Pengunjung -->
-  <img src="https://komarev.dev/ghpvc/?username=VoidSchema&color=00add8&style=flat-square" alt="Profile Visitor Count" />
+  <!-- Penghitung Pengunjung (Visitor Badge) -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=VoidSchema.VoidSchema" alt="visitor badge" />
 </div>
 
 ---
@@ -42,7 +42,7 @@ Halo! Saya **Rizki**, seorang pengembang perangkat lunak yang antusias dalam mem
 ## 📊 Statistik GitHub (VoidSchema)
 
 <div align="center">
-  <!-- Menggunakan vercel-quotes atau alternative stats jika yang utama sedang down -->
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VoidSchema&show_icons=true&theme=tokyonight" alt="Stats VoidSchema" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoidSchema&layout=compact&theme=tokyonight" alt="Top Languages VoidSchema" />
 </div>
